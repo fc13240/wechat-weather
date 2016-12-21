@@ -1,0 +1,15 @@
+{
+  "pages":[
+        "pages/flash/flash",
+    "pages/index/index",
+
+     
+    "pages/list/list"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#192466",
+    "navigationBarTitleText": "A-Weather",
+    "navigationBarTextStyle":"#fff"
+  }
+}
